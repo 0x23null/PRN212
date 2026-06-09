@@ -86,7 +86,7 @@ public class Program
             }
 
             // 8. Định vị thư mục dự án UnitTest và lưu file
-            var unitTestDir = Path.GetFullPath(Path.Combine(Path.GetDirectoryName(calculatorPath)!, "..", "UnitTest"));
+            var unitTestDir = Path.GetFullPath(Path.Combine(Path.GetDirectoryName(calculatorPath)!, "UnitTest"));
             Directory.CreateDirectory(unitTestDir);
 
             string outFile = Path.Combine(unitTestDir, "UnitTest_Generated.cs");
