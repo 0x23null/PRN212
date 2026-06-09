@@ -1,0 +1,17 @@
+D:\DotNetPractice\DemoUnitTest_ConsoleApp\bin\Debug\net8.0\DemoUnitTest_ConsoleApp.exe
+D:\DotNetPractice\DemoUnitTest_ConsoleApp\bin\Debug\net8.0\DemoUnitTest_ConsoleApp.deps.json
+D:\DotNetPractice\DemoUnitTest_ConsoleApp\bin\Debug\net8.0\DemoUnitTest_ConsoleApp.runtimeconfig.json
+D:\DotNetPractice\DemoUnitTest_ConsoleApp\bin\Debug\net8.0\DemoUnitTest_ConsoleApp.dll
+D:\DotNetPractice\DemoUnitTest_ConsoleApp\bin\Debug\net8.0\DemoUnitTest_ConsoleApp.pdb
+D:\DotNetPractice\DemoUnitTest_ConsoleApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\DotNetPractice\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnitTest_ConsoleApp.csproj.AssemblyReference.cache
+D:\DotNetPractice\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnitTest_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetPractice\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnitTest_ConsoleApp.AssemblyInfoInputs.cache
+D:\DotNetPractice\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnitTest_ConsoleApp.AssemblyInfo.cs
+D:\DotNetPractice\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnitTest_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\DotNetPractice\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnit.2EAC3C0F.Up2Date
+D:\DotNetPractice\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnitTest_ConsoleApp.dll
+D:\DotNetPractice\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\refint\DemoUnitTest_ConsoleApp.dll
+D:\DotNetPractice\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnitTest_ConsoleApp.pdb
+D:\DotNetPractice\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnitTest_ConsoleApp.genruntimeconfig.cache
+D:\DotNetPractice\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\ref\DemoUnitTest_ConsoleApp.dll

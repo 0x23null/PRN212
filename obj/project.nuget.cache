@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l7N9AMlLJiI=",
+  "success": true,
+  "projectFilePath": "D:\\DotNetPractice\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DuckHai\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
